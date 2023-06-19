@@ -1,6 +1,6 @@
 1. Определение кольца
     
-    Непустое семейство $D$ подмножеств из $X$ называют **кольцом**, если
+    Непустое семейство $\mathscr{D}$ подмножеств из $X$ называют **кольцом**, если
     1. $A,B \in \mathscr{D} \Rightarrow A \cup B \in \mathscr{D}$,
     2. $A,B \in \mathscr{D} \Rightarrow A \setminus B \in \mathscr{D}$
 
